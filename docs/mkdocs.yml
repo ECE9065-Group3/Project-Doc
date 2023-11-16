@@ -1,0 +1,10 @@
+site_name: Online Bookstore Docs
+site_description: Documentation for the Lab4 Online Bookstore website
+site_author: ECE9065 Team#3 for Fall 2023
+# site_url: https://ualberta-cmput401.github.io/pathfinder-2
+# repo_url: https://github.com/UAlberta-CMPUT401/pathfinder-2
+theme:
+  name: 'material'
+  palette:
+    primary: 'orange'
+    accent: 'deep orange'
