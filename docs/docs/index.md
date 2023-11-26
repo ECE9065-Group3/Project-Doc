@@ -12,7 +12,7 @@ In response to the growing demand for a seamless and feature-rich online booksto
 **Backend:**
 
 - [x] As a user, I want the website to implement basic security measures to protect my personal data, ensuring a safe registration and login process.
-- [x] As a registered user, I want the ability to update my password for added security.
+- As a registered user, I want the ability to update my password for added security.
 - [x] As a user, I want the option to authenticate using an external service like Google or Facebook, providing a convenient and secure login.
 - [x] As a new user, I want to receive an email verification to confirm my account and ensure the legitimacy of my registration.
 - [x] As a user with a deactivated account, I want to see a message prompting me to contact the site administrator for assistance, preventing unauthorized logins.
@@ -25,14 +25,14 @@ In response to the growing demand for a seamless and feature-rich online booksto
 - [x] As an unauthenticated user, I want to expand each search result to view additional information about a book.
 - [x] As an unauthenticated user, I want to soft-match search terms, ensuring a more forgiving search experience.
 - [x] As an unauthenticated user, I want to see a list of public booklists ordered by the last modified date, displaying name, creator, total pages, and book count.
-- As an unauthenticated user, I want to expand each book list to view its description and the list of books it contains.
-- As an unauthenticated user, I want the ability to display additional information and view all the books in a public book list.
+- [x] As an unauthenticated user, I want to expand each book list to view its description and the list of books it contains.
+- [x] As an unauthenticated user, I want the ability to display additional information and view all the books in a public book list.
 
 **Frontend & Backend:**
 
 - [x] As an authenticated user, I want to create up to 20 named book lists with a unique name, optional description, list of books, and a visibility flag set to private by default.
-- As an authenticated user, I want to click on a list to view detailed information about all the books it contains.
-- As an authenticated user, I want to edit all aspects of an existing book list and record the last edited time.
+- [x] As an authenticated user, I want to click on a list to view detailed information about all the books it contains.
+- [x] As an authenticated user, I want to edit all aspects of an existing book list and record the last edited time.
 - [x] As an authenticated user, I want to delete a book list.
 - As an authenticated user, I want to add a review to any public book list.
 
