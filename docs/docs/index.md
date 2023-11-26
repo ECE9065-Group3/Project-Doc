@@ -34,7 +34,7 @@ In response to the growing demand for a seamless and feature-rich online booksto
 - [x] As an authenticated user, I want to click on a list to view detailed information about all the books it contains.
 - [x] As an authenticated user, I want to edit all aspects of an existing book list and record the last edited time.
 - [x] As an authenticated user, I want to delete a book list.
-- As an authenticated user, I want to add a review to any public book list.
+- [x] As an authenticated user, I want to add a review to any public book list.
 
 ### Epic 3: Administrator Functionality
 **Backend:**
